@@ -10,5 +10,6 @@ We intend our app to deal with these issues by showing estimated delivery fees b
 
 The front end was developed collaboratively on CodeSandBox. 
 The wireframes, userflow, and proposed database ERD can be found in the 'project_design_diagrams' folder. 
+
 NOTE: this repository contains front-end code that was planned to hook up to a back-end. 
 Many elements in this code are placeholders that were planned to be replaced/supplemented by back-end code.
